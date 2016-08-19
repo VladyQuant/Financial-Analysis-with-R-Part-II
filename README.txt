@@ -1,4 +1,4 @@
-1. Open the file Case Study 6.
+1. Open the file Regression and Beta.R.
 2. Open menu Edit in your R shell.
 3. Select Execute or Run All.
 4. There will appear a chart window with the results.
